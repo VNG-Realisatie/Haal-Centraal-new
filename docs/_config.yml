@@ -5,7 +5,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: VNG-Realisatie/jekyll-theme-haal-centraal-new
+remote_theme: VNG-Realisatie/jekyll-theme-haal-centraal
 
 github: VNG-Realisatie/Haal-Centraal
 
