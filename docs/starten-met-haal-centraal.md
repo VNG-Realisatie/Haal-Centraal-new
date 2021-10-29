@@ -38,12 +38,12 @@ Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Hierover g
 1.	Maak een transitieplan. Dat begint met een analyse van je applicatielandschap: waar sta je nu en waar wil je heen? Vervolgens kun je migratiestrategieën toepassen. 
 2.	Gefaseerd security opschalen. Als je meer API’s gaat aansluiten, ga je ook je security gefaseerd opschalen. Concreet beweeg je van “alle security in de applicatie” naar “security in door de gemeente gecontroleerde centrale voorzieningen”.
     
-Je leest een uitgebreid stappenplan voor deze transitie in het onderdeel [Transitieplan](https://vng-realisatie.github.io/Haal-Centraal-new/transitieplan)
+Je leest een uitgebreid stappenplan voor deze transitie in [het onderdeel Transitieplan](https://vng-realisatie.github.io/Haal-Centraal-new/transitieplan).
 
 &nbsp;
 ## We staan klaar om je te helpen 
 Heb je vragen? Neem contact met ons op.
     
-* Vragen over transitie: Cathy Dingemanse	
-* Vragen over security: Melvin Lee	
-* Vragen over API's: Robert Melskens en Johan Boer
+* Vragen over transitie: [Cathy Dingemanse](mailto:cathy.dingemanse@denhaag.nl)
+* Vragen over security: [Melvin Lee](mailto:melvin.lee@iswish.nl)
+* Vragen over API's: [Robert Melskens](mailto:robert.melskens@vng.nl) en [Johan Boer](mailto:johan.boer@vng.nl)
