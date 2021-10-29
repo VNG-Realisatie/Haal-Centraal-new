@@ -21,8 +21,8 @@ Start direct met Haal Centraal door de eerste API aan te sluiten.
 ### Stappenplan spoor 1
 1.	Verwijs je leverancier naar de Getting Started gids van de API op GitHub. Daar vindt hij alle informatie om de API aan te sluiten.
 2.	Publiceer de API op de API Gateway van de gemeente. Regel hierin de rechten van de afnemersapplicatie als de API vertrouwelijk is, en vraag de applicatie evt. om de bevragingen te protocolleren.
-3.	Voer een audit uit op de aansluiting (alleen bij vertrouwelijke API’s). 
-
+3.	Voer een audit uit op de aansluiting (alleen bij vertrouwelijke API’s).  
+<br>  
 ## Spoor 2: transitie – uitfaseren administratief gegevensmagazijn en kopieën
 Start tegelijk met de transitie naar het volledig werken met API’s bij je gemeente.
 
@@ -33,11 +33,11 @@ Stappenplan spoor 2
 1.	Maak een transitieplan. Dat begint met een analyse van je applicatielandschap: waar sta je nu en waar wil je heen? Vervolgens kun je migratiestrategieën toepassen. 
 2.	Gefaseerd security opschalen. Als je meer API’s gaat aansluiten, ga je ook je security gefaseerd opschalen. Concreet beweeg je van “alle security in de applicatie” naar “security in door de gemeente gecontroleerde centrale voorzieningen”.
 
-In hoofdstuk 2 lees je een uitgebreid stappenplan voor deze transitie.
-
+In hoofdstuk 2 lees je een uitgebreid stappenplan voor deze transitie.  
+<br>  
 ## We staan klaar om je te helpen 
 Heb je vragen? Neem contact met ons op.
 
-* Vragen over Transitie: Cathy Dingemanse	
-* Vragen over Security: Melvin Lee	
-* Vragen over API's: Robert Melskens of Johan Boer
+* Vragen over transitie: Cathy Dingemanse	
+* Vragen over security: Melvin Lee	
+* Vragen over API's: Robert Melskens en Johan Boer
