@@ -9,7 +9,7 @@ title: Productvisie Haal Centraal
 
 ## Geef een gebruikerswens door
 * Maak een issue in Github van het type 'user story'.
-* Formuleer je wens in het format “als medewerker xxx wil ik xxx zodat ik xxx”.
+* Formuleer je wens in het format *“als medewerker xxx wil ik xxx zodat ik xxx”*.
 * voeg aan de issue het label 'user story” toe.
 
 
