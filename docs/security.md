@@ -53,6 +53,7 @@ Door de API Gateway te laten loggen en de toegangsbeveiliging voor nieuwe applic
 Voor het verzamelen, opslaan en analyse van de logging kun je bijvoorbeeld gebruik maken van de ELK (Elastic search, Logstash en Kibana), Stack, Splunk, LogRhythm, Graylog, etc.
 
 ------------------
+
 ## Uitwerking (Toegangs)beveiliging, autorisatie en filtering
 
 ### Identity Provider (IP)	
