@@ -5,7 +5,7 @@ title: Productvisie Haal Centraal
 # Starten met Haal Centraal
 
 ## Met Haal Centraal API’s kun je als gemeente gegevens rechtstreeks bij de landelijke registratie bevragen. Dat is beter, sneller en goedkoper. In deze startgids lees je hoe je als gemeente start met Haal Centraal API’s.
-<br>
+
 ## Start op 2 sporen tegelijk met Haal Centraal API’s  
 We adviseren om op 2 sporen tegelijk te starten met Haal Centraal API’s.  
 * Spoor 1: start direct met Haal Centraal door de eerste afnemer op een HC API aan te sluiten. Zo doe je belangrijke ervaring op met de API’s. En vanaf de eerste API heb je al voordeel in kosten, snelheid en gemak. 
