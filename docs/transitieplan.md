@@ -24,6 +24,7 @@ Welke van de twee strategieën je kiest, hangt af van de situatie in jouw gemeen
 * hoeveel afnemers zijn er op aangesloten;
 * wanneer de aangesloten applicaties aan vervanging toe zijn;
 * wat de kosten en mogelijkheden zijn voor een afnemende applicatie om naar naar API’s te migreren, al dan niet met een ‘vertaler’.
+
 &nbsp;   
 
 ## Stap 2 – gefaseerd security opschalen  
