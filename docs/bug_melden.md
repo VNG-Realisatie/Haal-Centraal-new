@@ -8,9 +8,9 @@ title: Productvisie Haal Centraal
 &nbsp;
 
 ## Meld een fout of bug
-* Beschrijf de fout en geef aan welk resultaat je had verwacht
-* geef het reproductiepad op (testcase, endpoint, request)
-* voeg het label “bug” toe aan de issue.
+* Beschrijf de fout en geef aan welk resultaat je had verwacht.
+* Geef het reproductiepad op (testcase, endpoint, request).
+* Voeg het label “bug” toe aan de issue.
 
 [Meld nu een fout of bug](http://example.com)
 
