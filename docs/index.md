@@ -22,7 +22,7 @@ Link
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h1 class="card-title">Aansluiten API</h1>
+        <h2 class="card-title">Aansluiten op API's</h2>
         <p class="card-text">
         Tekst.
         </p>
