@@ -12,6 +12,7 @@ We adviseren om op 2 sporen tegelijk te starten met Haal Centraal API’s.
 * Spoor 1: start direct met Haal Centraal door de eerste afnemer op een Haal Centraal API aan te sluiten. Zo doe je belangrijke ervaring op met de API’s. En vanaf de eerste API heb je al voordeel in kosten, snelheid en gemak. 
       
 * Spoor 2: start tegelijk met de transitie naar het volledig werken met API’s bij je gemeente. Deze transitie vraagt tijd en voorbereiding. Als je de transitie volledig hebt afgerond, kun je het administratieve gegevensmagazijn en veel lokale kopieën uitfaseren. Als je selecties en data-analyses uitvoert op het gegevensmagazijn kun je een hiervoor geoptimaliseerd systeem aanschaffen.
+
 &nbsp;   
 ## Spoor 1: direct starten met de eerste API
 Start direct met Haal Centraal door de eerste API aan te sluiten.  
@@ -26,6 +27,7 @@ Start direct met Haal Centraal door de eerste API aan te sluiten.
 1.	Verwijs je leverancier naar de [Getting Started gids van de API op GitHub](https://vng-realisatie.github.io/Haal-Centraal-new/aansluiten-op-apis). Daar vindt hij alle informatie om de API aan te sluiten.
 2.	Publiceer de API op de API Gateway van de gemeente. Regel hierin de rechten van de afnemersapplicatie als de API vertrouwelijk is, en vraag de applicatie evt. om de bevragingen te protocolleren.
 3.	Voer een audit uit op de aansluiting (alleen bij vertrouwelijke API’s).
+
 &nbsp;   
 ## Spoor 2: transitie – uitfaseren administratief gegevensmagazijn en kopieën
 Start tegelijk met de transitie naar het volledig werken met API’s bij je gemeente.
