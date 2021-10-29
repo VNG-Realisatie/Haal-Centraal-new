@@ -8,9 +8,10 @@ title: Productvisie Haal Centraal
 &nbsp;
 
 ## Geef een gebruikerswens door
-* Maak een nieuw issue aan in Github.
-* Geef aan *wat* je mist en *waarom* je het nodig hebt.
-* Voeg het label “enhancement” toe aan de issue.
+* Maak een issue in Github van het type 'user story'.
+* Formuleer je wens in het format “als medewerker xxx wil ik xxx zodat ik xxx”.
+* voeg aan de issue het label 'user story” toe.
+
 
 [Geef nu je gebruikerswens door](http://example.com)
 
