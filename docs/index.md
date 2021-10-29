@@ -12,17 +12,17 @@ title: Productvisie Haal Centraal
 
 Link
 
+{:.header}
 <br><br>
 
 
-{:.header}
 # Veel mensen hebben deze vragen
 
 <div class="row">
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">Aansluiten API</h3>
+        <h2 class="card-title">Aansluiten API</h2>
         <p class="card-text">
         Tekst.
         </p>
@@ -32,7 +32,7 @@ Link
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">Bug of fout melden</h3>
+        <h2 class="card-title">Bug of fout melden</h2>
         <p class="card-text">
         Tekst
         </p>
@@ -42,7 +42,7 @@ Link
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">Verbeteringen doorgeven</h3>
+        <h2 class="card-title">Verbeteringen doorgeven</h2>
         <p class="card-text"> Tekst
         </p>
       </div>
@@ -54,7 +54,7 @@ Link
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">Gebruikerswens doorgeven</h3>
+        <h2 class="card-title">Gebruikerswens doorgeven</h2>
         <p class="card-text">
         tekst
         </p>
@@ -64,7 +64,7 @@ Link
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">Starten met Haal Centraal</h3>
+        <h2 class="card-title">Starten met Haal Centraal</h2>
         <p class="card-text">
         Tekst
         </p>
@@ -74,11 +74,10 @@ Link
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h3 class="card-title">Over Haal Centraal</h3>
+        <h2 class="card-title">Over Haal Centraal</h2>
         <p class="card-text">
         Tekst</p>
       </div>
     </div>
   </div>
 </div>
-
