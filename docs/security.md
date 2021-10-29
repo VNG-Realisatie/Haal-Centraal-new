@@ -54,6 +54,11 @@ Voor het verzamelen, opslaan en analyse van de logging kun je bijvoorbeeld gebru
 
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
+Identity Provider (IP) | Voor het authenticeren van de eindgebruiker waarin de claims voor het gebruik van de API van alle gebruikers van jouw gemeente centraal zijn vastgelegd. 
+
+Nadat de Identity provider heeft vastgesteld wie de ingelogde gebruiker is en welke applicatie de API namens de gebruiker wil bevragen, kunnen tokens (al dan niet met gebruikersclaims) aan client applicaties worden verstrekt. 
+
+Hiermee kan de client (SaaS)applicatie namens de gebruiker de API bevragen.
+
 Content Cell  | Content Cell
 
