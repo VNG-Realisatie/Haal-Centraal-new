@@ -35,7 +35,7 @@ Gemeenten moeten hiervoor zelf de toegangsbeveiliging en autorisatie organiseren
 * API Gateway: (toegangs)beveiliging van de API’s.
 * Proxy of een ‘facade’: autorisatie op detailniveau.
 
-In het kader [Uitwerking (Toegangs)beveiliging, autorisatie en filtering](https://vng-realisatie.github.io/Haal-Centraal-new/security#uitwerking-toegangsbeveiliging-autorisatie-en-filtering)lees je een uitwerking van deze onderdelen.
+In het kader [Uitwerking (Toegangs)beveiliging, autorisatie en filtering](https://vng-realisatie.github.io/Haal-Centraal-new/security#uitwerking-toegangsbeveiliging-autorisatie-en-filtering) lees je een uitwerking van deze onderdelen.
 
 &nbsp;   
 ### 2. IGA-systeem: beheren van identiteit, rollen en rechten
@@ -63,6 +63,7 @@ Voor het verzamelen, opslaan en analyse van de logging kun je bijvoorbeeld gebru
 &nbsp;   
 
 ## Uitwerking (Toegangs)beveiliging, autorisatie en filtering
+Gemeenten kunnen met deze onderdelen zelf de toegangsbeveiliging en autorisatie organiseren. 
 
 &nbsp;   
 ### Identity Provider (IP)	
