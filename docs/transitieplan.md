@@ -8,7 +8,7 @@ title: Productvisie Haal Centraal
 ## In dit hoofdstuk lees je hoe je de transitie maakt naar het werken met Haal Centraal API’s in jouw gemeente en het uitfaseren van administratieve gegevensmagazijnen en veel lokale kopieën.  
 &nbsp;  
 ## Lees eerst de Startgids Haal Centraal
-Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst de Startgids Haal Centraal als je die nog niet gelezen hebt.  
+Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst [de Startgids Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal) als je die nog niet gelezen hebt. 
 
 ## Stap 1 -  Maak een transitieplan  
 De transitie begint met het bepalen van de transitiestrategie voor jouw gemeente. Wij onderscheiden 2 strategieën, die eventueel in combinatie kunnen worden toegepast:  
@@ -28,8 +28,8 @@ Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Concreet b
 Als je start met 1 privacygevoelige API, heb je alleen een API gateway nodig. Ga je opschalen? Dan volgt ook een proxy voor autorisatie, een Identity Provider, een protocolleringsvoorziening en IAM.  
 
 Hoe je de fases doorloopt, hangt samen met de transitiestrategie die je kiest.  
-* Kies je voor Strategie A: dan kun je de fases doorlopen.
-* Kies je voor strategie B, dan moet je eerst de voorzieningen uit fase 2a en 2b aanschaffen en inrichten. Daarna kun je de fases doorlopen.  
+* Kies je voor Strategie A: dan kun je de onderstaande fases a, b en c doorlopen.
+* Kies je voor strategie B, dan moet je eerst de voorzieningen uit de onderstaande fase a en b aanschaffen en inrichten. Daarna kun je de fases doorlopen.  
 
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
@@ -47,7 +47,7 @@ Het juiste moment hiervoor is:
 
 Begin met het aansluiten van 1 applicatie, en breid dit langzaam uit voor alle nieuwe (opnieuw aanbestede) applicaties. Zo kun je al doende leren en verbeteren, en jouw organisatie in eigen tempo verder professionaliseren.
 
-Lees meer over logging & protocollering in het onderdeel security.
+Lees meer over logging & protocollering in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
 
 ### Fase c: IAM-systeem voor beheer rollen en rechten 
 
@@ -59,4 +59,4 @@ Stel jezelf de vraag wanneer de provisioning van jouw Identity Provider niet mee
 
 Houd er rekening mee dat een IAM project 30% techniek, en 70% cultuur is. Begrip van de noodzaak en draagvlak van management en HR afdeling is een absolute voorwaarde voor succes. Start daarmee op tijd.
 
-Lees meer over IAM systemen in in het onderdeel security.
+Lees meer over IAM systemen in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
