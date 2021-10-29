@@ -52,13 +52,22 @@ Door de API Gateway te laten loggen en de toegangsbeveiliging voor nieuwe applic
 
 Voor het verzamelen, opslaan en analyse van de logging kun je bijvoorbeeld gebruik maken van de ELK (Elastic search, Logstash en Kibana), Stack, Splunk, LogRhythm, Graylog, etc.
 
-First Header  | Second Header
-------------- | -------------
-Identity Provider (IP) | Voor het authenticeren van de eindgebruiker waarin de claims voor het gebruik van de API van alle gebruikers van jouw gemeente centraal zijn vastgelegd. 
+------------------
+## Uitwerking (Toegangs)beveiliging, autorisatie en filtering
+
+### Identity Provider (IP)	
+Voor het authenticeren van de eindgebruiker waarin de claims voor het gebruik van de API van alle gebruikers van jouw gemeente centraal zijn vastgelegd. 
 
 Nadat de Identity provider heeft vastgesteld wie de ingelogde gebruiker is en welke applicatie de API namens de gebruiker wil bevragen, kunnen tokens (al dan niet met gebruikersclaims) aan client applicaties worden verstrekt. 
 
 Hiermee kan de client (SaaS)applicatie namens de gebruiker de API bevragen.
 
-Content Cell  | Content Cell
+### Security Token Service (STS)	
+Voor het uitgeven, valideren, vernieuwen en beëindigen van security tokens en het veilig identificeren van een client (SaaS) applicatie. Hoort bij de Identity Provider.
 
+### API Gateway	
+Voor de (toegangs)beveiliging van de API’s. Een API Gateway is vaak onderdeel van een product voor ‘full life cycle API Management’. 
+
+Een API Gateway bevat ondersteuning voor het design, publiceren, documenteren, beveiligen en analyseren van API’s. Zie de website van Gartner voor productinspiratie. 
+
+Een API Gateway is een must have voor iedere gemeente die gevoelige API’s aan afnemers aanbiedt.
