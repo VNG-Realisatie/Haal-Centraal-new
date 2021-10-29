@@ -38,7 +38,7 @@ In het onderstaande kader staan 3 fases beschreven voor het professionaliseren v
 
 &nbsp;   
 ---------------------------------------
-
+## 3 fases voor professionaliseren beveiliging
 &nbsp;   
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
