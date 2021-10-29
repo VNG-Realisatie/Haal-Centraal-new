@@ -9,7 +9,7 @@ title: Productvisie Haal Centraal
 &nbsp;  
 ## Lees eerst de Startgids Haal Centraal
 Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst [de Startgids Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal) als je die nog niet gelezen hebt. 
-
+&nbsp;  
 ## Stap 1 -  Maak een transitieplan  
 De transitie begint met het bepalen van de transitiestrategie voor jouw gemeente. Wij onderscheiden 2 strategieën, die eventueel in combinatie kunnen worden toegepast:  
 * Strategie A - het actief uitfaseren van het administratief gegevensmagazijn. In deze strategie sluit je alle afnemers van het gegevensmagazijn actief aan op de API’s binnen een korte periode. 
@@ -21,7 +21,7 @@ Welke van de twee strategieën je kiest, hangt af van de situatie in jouw gemeen
 * hoeveel afnemers zijn er op aangesloten;
 * wanneer de aangesloten applicaties aan vervanging toe zijn;
 * wat de kosten en mogelijkheden zijn voor een afnemende applicatie om naar naar API’s te migreren, al dan niet met een ‘vertaler’. 
-
+&nbsp;  
 ## Stap 2 – gefaseerd security opschalen  
 Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Concreet beweeg je van alle security in de applicatie naar security in centrale gemeentelijke voorzieningen. De professionalisering van beveiliging gaat in fases. Iedere fase levert direct meerwaarde voor je gemeente. 
 
@@ -30,7 +30,7 @@ Als je start met 1 privacygevoelige API, heb je alleen een API gateway nodig. Ga
 Hoe je de fases doorloopt, hangt samen met de transitiestrategie die je kiest.  
 * Kies je voor Strategie A: dan kun je de onderstaande fases a, b en c doorlopen.
 * Kies je voor strategie B, dan moet je eerst de voorzieningen uit de onderstaande fase a en b aanschaffen en inrichten. Daarna kun je de fases doorlopen.
-
+&nbsp;  
 ---------------
 
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
