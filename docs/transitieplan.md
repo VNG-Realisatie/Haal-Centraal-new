@@ -31,8 +31,7 @@ Hoe je de fases doorloopt, hangt samen met de transitiestrategie die je kiest.
 * Kies je voor Strategie A: dan kun je de onderstaande fases a, b en c doorlopen.
 * Kies je voor strategie B, dan moet je eerst de voorzieningen uit de onderstaande fase a en b aanschaffen en inrichten. Daarna kun je de fases doorlopen.
 &nbsp;  
----------------
-
+*********************
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
 
