@@ -16,12 +16,14 @@ De kern van veilig gebruik van een Haal Centraal API met vertrouwelijke gegevens
 
 &nbsp;   
 ## Security inrichten op veilig gebruik
-Om veilig te kunnen werken met API’s heb je de volgende onderdelen nodig.
+Om veilig te kunnen werken met API’s heb je 3 onderdelen nodig.
 1. (Toegangs)beveiliging, autorisatie en filtering
 2. IAM-systeem: beheren van identiteit, rollen en rechten
 3. Logging- en protocollering: controle achteraf en misbruik voorkomen
 
-Hieronder lees je een uitwerking van deze onderdelen
+Hieronder lees je een uitwerking van deze 3 onderdelen
+
+&nbsp;   
 
 ### 1. (Toegangs)beveiliging, autorisatie en filtering
 Gemeenten bieden een breed palet aan producten en diensten die allemaal een andere minimale set gegevens en functionaliteit nodig hebben. En die producten en diensten worden geleverd door veel verschillende medewerkers met verschillende rollen en rechten. 
