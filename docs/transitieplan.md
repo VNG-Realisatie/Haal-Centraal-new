@@ -42,6 +42,9 @@ Totdat je opnieuw aanbesteedt, kun je voor deze applicaties een machine to machi
   
 Om deze stap te kunnen zetten heb je alleen een API Gateway nodig en een proxy voor autorisatie op detailniveau (evt. via een API Gateway framework). Met deze voorziening(en) kun je dus al van start met de transitie.
 
+&nbsp;   
+
+
 ### Fase b: identity provider en logging & protocollering
 De tweede fase is het introduceren van een Identity provider/STS, en tegelijkertijd een start maken met een centrale logging- en protocolleringsvoorziening. 
 Het juiste moment hiervoor is:
@@ -52,6 +55,8 @@ Het juiste moment hiervoor is:
 Begin met het aansluiten van 1 applicatie, en breid dit langzaam uit voor alle nieuwe (opnieuw aanbestede) applicaties. Zo kun je al doende leren en verbeteren, en jouw organisatie in eigen tempo verder professionaliseren.
 
 Lees meer over logging & protocollering in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
+
+&nbsp;   
 
 ### Fase c: IAM-systeem voor beheer rollen en rechten 
 
