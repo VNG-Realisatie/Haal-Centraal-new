@@ -6,7 +6,7 @@ title: Productvisie Haal Centraal
 # Transitieplan
 
 ## In dit hoofdstuk lees je hoe je de transitie maakt naar het werken met Haal Centraal API’s in jouw gemeente en het uitfaseren van administratieve gegevensmagazijnen en veel lokale kopieën.  
-## 
+&nbsp;  
 ## Lees eerst de Startgids Haal Centraal
 Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst de Startgids Haal Centraal als je die nog niet gelezen hebt.  
 
