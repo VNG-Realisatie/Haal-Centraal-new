@@ -5,7 +5,9 @@ title: Productvisie Haal Centraal
 
 # Aansluiten op API's
 ## Je wilt aansluiten op een van onze API’s. Voor iedere API hebben we een Getting Started Guide gemaakt. Daarin staat precies wat je moet doen.
+
 &nbsp;
+## Op deze API's kun je nu aansluiten 
 
 <div class="row">
   <div class="col">
