@@ -13,8 +13,11 @@ title: Productvisie Haal Centraal
 * Voeg het label “enhancement” toe aan de issue.
 
 [Geef nu je verbetering door](http://example.com)
-&nbsp;
 
+&nbsp;   
 ## Meer weten over GitHub
 
 Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over lezen in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
+
+
+&nbsp;   
