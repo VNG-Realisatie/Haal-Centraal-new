@@ -13,9 +13,9 @@ title: Productvisie Haal Centraal
 * Geef het reproductiepad op (testcase, endpoint, request).
 * Voeg het label “bug” toe aan de issue.
 
-[Meld nu een fout of bug](http://example.com)
-&nbsp;    
+[Meld nu een fout of bug](http://example.com)   
 
+&nbsp;    
 ## Meer weten over GitHub
 
 Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over lezen in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
