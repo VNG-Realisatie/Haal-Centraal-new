@@ -32,13 +32,13 @@ Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Concreet b
 
 De professionalisering van beveiliging gaat in fases. Als je start met 1 privacygevoelige API, heb je alleen een API gateway nodig. Ga je opschalen? Dan volgt ook een proxy voor autorisatie, een Identity Provider, een protocolleringsvoorziening en IAM.
 
-In het onderstaande kader staan 3 fases beschreven voor het professionaliseren van de beveiliging. Hoe je de fases doorloopt, hangt samen met de transitiestrategie die je kiest.  
+In het onderstaande kader staan 3 fases beschreven voor het opschalen van de security. Hoe je de fases doorloopt, hangt samen met de transitiestrategie die je kiest.  
 * Kies je voor actief uitfaseren (strategie A): dan kun je de onderstaande fases a, b en c doorlopen.
 * Kies je voor een sterfhuisconstructie (strategie B), dan moet je eerst de voorzieningen uit de onderstaande fase a en b aanschaffen en inrichten. Daarna kun je de fases doorlopen.
 
 &nbsp;   
 ---------------------------------------
-## 3 fases voor professionaliseren beveiliging
+## 3 fases voor opschalen security
 &nbsp;   
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
