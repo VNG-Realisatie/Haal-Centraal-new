@@ -14,7 +14,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h2 class="card-title">BAG Bevragen API</h2>
+        <h2 class="card-title">BAG Bevragen</h2>
         <p class="card-text">
         [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-BAG-bevragen/getting-started)
         </p>
@@ -24,7 +24,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h2 class="card-title">BRK Bevragen API</h2>
+        <h2 class="card-title">BRK Bevragen</h2>
         <p class="card-text"> [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-BRK-bevragen/getting-started)        </p>
       </div>
     </div>
@@ -32,7 +32,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h2 class="card-title">BRP Bevragen API</h2>
+        <h2 class="card-title">BRP Bevragen</h2>
         <p class="card-text">[Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-BRP-bevragen/getting-started)
         </p>
         </div>
@@ -41,7 +41,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h2 class="card-title">WOZ Bevragen API</h2>
+        <h2 class="card-title">WOZ Bevragen</h2>
         <p class="card-text"> [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen/getting-started)        </p>
       </div>
     </div>
