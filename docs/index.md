@@ -6,11 +6,11 @@ title: Productvisie Haal Centraal
 # Start met haal centraal
 
 {:.landingpage-header}
-* In de startgids lees je in 5 minuten wat je moet doen
-* Handleiding 
-* Ondersteuning
+* In de startgids lees je in 5 minuten wat je moet doen.
+* Je krijgt contrete tips en stappenplannen. 
+* Onze experts staan klaar om je te adviseren.
 
-Link
+[Ga naar de startgids>>](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal)
 
 {:.header}
 <br><br>
@@ -24,7 +24,7 @@ Link
       <div class="card-body">
         <h2 class="card-title">Aansluiten op API's</h2>
         <p class="card-text">
-        Tekst.
+        In de Getting started guide staat precies wat je moet doen [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/aansluiten-op-apis)
         </p>
       </div>
     </div>
@@ -34,7 +34,7 @@ Link
       <div class="card-body">
         <h2 class="card-title">Bug of fout melden</h2>
         <p class="card-text">
-        Tekst
+        Je kunt een fout of bug doorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/bug_melden)
         </p>
       </div>
     </div>
@@ -43,7 +43,7 @@ Link
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">Verbeteringen doorgeven</h2>
-        <p class="card-text"> Tekst
+        <p class="card-text"> Je kunt een verbetering doorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/verbetervoorstel)
         </p>
       </div>
     </div>
@@ -56,7 +56,7 @@ Link
       <div class="card-body">
         <h2 class="card-title">Gebruikerswens doorgeven</h2>
         <p class="card-text">
-        tekst
+        Je kunt een gebruikerswens doorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/gebruikerswens)
         </p>
       </div>
     </div>
@@ -66,7 +66,7 @@ Link
       <div class="card-body">
         <h2 class="card-title">Starten met Haal Centraal</h2>
         <p class="card-text">
-        Tekst
+        In de startgids lees je in 5 minuten wat je moet doen. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal)
         </p>
       </div>
     </div>
@@ -76,7 +76,8 @@ Link
       <div class="card-body">
         <h2 class="card-title">Over Haal Centraal</h2>
         <p class="card-text">
-        Tekst</p>
+        Haal Centraal ontwikkelt API’s die gegevens bevragen bij landelijke registraties. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/over-haal-centraal)
+</p>
       </div>
     </div>
   </div>
