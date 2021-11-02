@@ -9,6 +9,7 @@ title: Productvisie Haal Centraal
 &nbsp;
 ## Op deze API's kun je nu aansluiten 
 
+&nbsp;
 <div class="row">
   <div class="col">
     <div class="card no-border">
