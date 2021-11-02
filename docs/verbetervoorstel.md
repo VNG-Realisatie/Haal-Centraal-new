@@ -4,7 +4,7 @@ title: Productvisie Haal Centraal
 ---
 
 # Verbetering doorgeven
-## Je wilt een verbetering doorgeven voor een van onze API’s . Je kunt een verbetering doorgeven door een issue aan te maken in GitgHub. We pakken je melding zo snel mogelijk op.
+## Je wilt een verbetering doorgeven voor een van onze API’s . Je kunt een verbetering doorgeven door een issue aan te maken in GitHub. We pakken je melding zo snel mogelijk op.
 &nbsp;
 
 ## Geef een verbetering door
