@@ -19,9 +19,9 @@ Start direct met Haal Centraal door de eerste API aan te sluiten.
    
 ### Voorwaarden spoor 1
    
-* De BAG (Basisregistratie Adressen en Gebouwen) is een openbare bron. Je kunt hier zonder API gateway op aansluiten, maar het handiger om het wel te doen, omdat de andere HC API’s hier naar verwijzen.  
+* De BAG (Basisregistratie Adressen en Gebouwen) is een openbare bron. Je kunt hier zonder API gateway op aansluiten. Maar het handiger om wel een API gateway te gebruiken, omdat de andere HC API’s hier naar verwijzen.  
 * In de BRP (Basisregistratie Personen), BRK (Basisregistratie Kadaster) en WOZ API staan vertrouwelijke gegevens. Hiervoor heb je een API gateway nodig. 
-[Lees meer over API gateways](https://vng-realisatie.github.io/Haal-Centraal-new/security).
+[Lees meer over API gateways](https://vng-realisatie.github.io/Haal-Centraal-new/security#api-gateway).
    
 ### Stappenplan spoor 1
 1.	Verwijs je leverancier naar de [Getting Started gids van de API op GitHub](https://vng-realisatie.github.io/Haal-Centraal-new/aansluiten-op-apis). Daar vindt hij alle informatie om de API aan te sluiten.
