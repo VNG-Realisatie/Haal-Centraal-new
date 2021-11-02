@@ -24,7 +24,7 @@ Start direct met Haal Centraal door de eerste API aan te sluiten.
 [Lees meer over API gateways](https://vng-realisatie.github.io/Haal-Centraal-new/security#api-gateway).
    
 ### Stappenplan spoor 1
-1.	Verwijs je leverancier naar de [Getting Started gids van de API op GitHub](https://vng-realisatie.github.io/Haal-Centraal-new/aansluiten-op-apis). Daar vindt hij alle informatie om de API aan te sluiten.
+1.	Verwijs je leverancier naar de [Getting started guide van de API op GitHub](https://vng-realisatie.github.io/Haal-Centraal-new/aansluiten-op-apis). Daar vindt hij alle informatie om de API aan te sluiten.
 2.	Publiceer de API op de API Gateway van de gemeente. Regel hierin de rechten van de afnemersapplicatie als de API vertrouwelijk is, en vraag de applicatie evt. om de bevragingen te protocolleren.
 3.	Voer een audit uit op de aansluiting (alleen bij vertrouwelijke API’s).
 
@@ -33,12 +33,12 @@ Start direct met Haal Centraal door de eerste API aan te sluiten.
 Start tegelijk met de transitie naar het volledig werken met API’s bij je gemeente.
    
 ### Voorwaarden spoor 2
-Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Hierover gaat stap 2 van het onderstaande stappenplan.
+Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Hierover gaat stap 2 van het onderstaande 'Stappenplan spoor 2'.
    
 ### Stappenplan spoor 2
    
-1.	Maak een transitieplan. Dat begint met een analyse van je applicatielandschap: waar sta je nu en waar wil je heen? Vervolgens kun je migratiestrategieën toepassen. 
-2.	Gefaseerd security opschalen. Als je meer API’s gaat aansluiten, ga je ook je security gefaseerd opschalen. Concreet beweeg je van “alle security in de applicatie” naar “security in door de gemeente gecontroleerde centrale voorzieningen”.
+1.	Maak een transitieplan. Dat begint met een analyse van je applicatielandschap: waar sta je nu en waar wil je heen? Vervolgens kun je [migratiestrategieën toepassen](https://github.com/VNG-Realisatie/Haal-Centraal-new/blob/main/docs/transitieplan.md#stap-1----maak-een-transitieplan).
+2.	Gefaseerd security opschalen. Als je meer API’s gaat aansluiten, ga je ook je [security gefaseerd opschalen](https://github.com/VNG-Realisatie/Haal-Centraal-new/blob/main/docs/transitieplan.md#stap-2--gefaseerd-security-opschalen). Concreet beweeg je van “alle security in de applicatie” naar “security in door de gemeente gecontroleerde centrale voorzieningen”. 
     
 Je leest een uitgebreid stappenplan voor deze transitie in [het onderdeel Transitieplan](https://vng-realisatie.github.io/Haal-Centraal-new/transitieplan).
 
