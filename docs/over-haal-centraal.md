@@ -17,6 +17,11 @@ Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je
 * Er zijn afspraken over beschikbaarheid en performance. Het programma heeft samen met gemeenten en de landelijke registraties Service Level Agreements opgeleverd en vastgesteld. De beschikbaarheid en performance zijn goed en rapportages hiervan zijn beschikbaar. 
 
 &nbsp;
+
+## Bekijk de planning van Haal Centraal
+In de planning voor Haal Centraal zie je precies waar de teams de komende tijd aan werken. [Bekijk de planning](https://vng-realisatie.github.io/Haal-Centraal-new/planning).
+
+&nbsp;
 ## Meer informatie
 Je leest meer over Haal Centraal op de [website van VNG Realisatie](https://www.vngrealisatie.nl/producten/haal-centraal).
 
