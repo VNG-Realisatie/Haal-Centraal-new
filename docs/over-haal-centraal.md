@@ -7,8 +7,9 @@ title: Productvisie Haal Centraal
 
 ## Haal Centraal ontwikkelt API’s waarmee je gemeente basisgegevens rechtstreeks bij de landelijke registraties kan bevragen. Haal Centraal API’s zijn beschikbaar voor alle gemeenten. Je gemeente kan direct starten met het aansluiten op de API’s.
 
+&nbsp;
 ## Wat is Haal Centraal?
-Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je gemeente basisgegevens rechtstreeks bij de landelijke registraties kan bevragen. Dit past bij de informatiekundige visie Common Ground. Haal Centraal is een initiatief van de G5 gemeenten (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven) en een samenwerking van gemeenten met VNG, VNG Realisatie, Kadaster, RvIG, KVK en BZK.
+Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je gemeente basisgegevens rechtstreeks bij de landelijke registraties kan bevragen. Dit past bij de informatiekundige visie Common Ground. Haal Centraal is een initiatief van de G5 gemeenten (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven) en een samenwerking van gemeenten met VNG, VNG Realisatie, Kadaster, RvIG, KVK en BZK. Je leest meer over Haal Centraal op de [website van VNG Realisatie](https://www.vngrealisatie.nl/producten/haal-centraal).
 
 &nbsp;
 ## Je gemeente kan direct starten met het aansluiten op de API’s
@@ -22,8 +23,5 @@ Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je
 In de planning voor Haal Centraal zie je precies waar de teams de komende tijd aan werken. [Bekijk de planning](https://vng-realisatie.github.io/Haal-Centraal-new/planning).
 
 &nbsp;
-## Meer informatie
-Je leest meer over Haal Centraal op de [website van VNG Realisatie](https://www.vngrealisatie.nl/producten/haal-centraal).
-
 
 &nbsp;
