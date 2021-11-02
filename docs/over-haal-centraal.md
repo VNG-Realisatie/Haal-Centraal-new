@@ -16,5 +16,9 @@ Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je
 * API’s voldoen aan wet- en regelgeving. Wel moet iedere gemeente zorgen dat de verstrekking aan afnemers conform wet-regelgeving gebeurt. 
 * Er zijn afspraken over beschikbaarheid en performance. Het programma heeft samen met gemeenten en de landelijke registraties Service Level Agreements opgeleverd en vastgesteld. De beschikbaarheid en performance zijn goed en rapportages hiervan zijn beschikbaar. 
 
+&nbsp;
 ## Meer informatie
 Je leest meer over Haal Centraal op de [website van VNG Realisatie](https://www.vngrealisatie.nl/producten/haal-centraal).
+
+
+&nbsp;
