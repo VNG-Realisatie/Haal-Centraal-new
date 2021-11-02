@@ -4,7 +4,7 @@ title: Productvisie Haal Centraal
 ---
 
 # Fout of bug melden
-## Je wilt een fout of bug in een van onze API’s melden. Je kunt een fout of bug doorgeven door een issue aan te maken in GitHum. We pakken je melding zo snel mogelijk op.
+## Je wilt een fout of bug in een van onze API’s melden. Je kunt een fout of bug doorgeven door een issue aan te maken in GitHub. We pakken je melding zo snel mogelijk op.
 &nbsp;
 
 ## Meld een fout of bug
