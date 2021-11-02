@@ -16,7 +16,7 @@ title: Productvisie Haal Centraal
       <div class="card-body">
         <h2 class="card-title">BAG Bevragen</h2>
         <p class="card-text">
-        [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-BAG-bevragen/getting-started)
+        Ga naar de Getting Started Guide van [de BAG Bevragen API>>](https://vng-realisatie.github.io/Haal-Centraal-BAG-bevragen/getting-started)
         </p>
       </div>
     </div>
@@ -25,7 +25,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRK Bevragen</h2>
-        <p class="card-text"> [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-BRK-bevragen/getting-started)        </p>
+        <p class="card-text"> Ga naar de Getting Started Guide van [de BRK Bevragen API>>](https://vng-realisatie.github.io/Haal-Centraal-BRK-bevragen/getting-started)        </p>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRP Bevragen</h2>
-        <p class="card-text">[Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-BRP-bevragen/getting-started)
+        <p class="card-text">Ga naar de Getting Started Guide van [de BRP Bevragen API>>](https://vng-realisatie.github.io/Haal-Centraal-BRP-bevragen/getting-started)
         </p>
         </div>
     </div>
@@ -42,7 +42,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">WOZ Bevragen</h2>
-        <p class="card-text"> [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen/getting-started)        </p>
+        <p class="card-text"> Ga naar de Getting Started Guide van [de WOZ Bevragen API>>](https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen/getting-started)        </p>
       </div>
     </div>
   </div>
