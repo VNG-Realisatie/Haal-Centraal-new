@@ -42,7 +42,7 @@ title: Productvisie Haal Centraal
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">WOZ Bevragen API</h2>
-        <p class="card-text"> [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-new/bug_melden)        </p>
+        <p class="card-text"> [Ga naar de Getting Started Guide van deze API>>](https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen/getting-started)        </p>
       </div>
     </div>
   </div>
