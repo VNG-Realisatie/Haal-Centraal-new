@@ -4,7 +4,7 @@ title: Productvisie Haal Centraal
 ---
 
 # Gebruikerswens doorgeven
-## Je wilt een gebruikerswens doorgeven voor een van onze API’s . Je kunt een gebruikerswens doorgeven door een issue aan te maken in GitgHub. We pakken je wens zo snel mogelijk op.
+## Je wilt een gebruikerswens doorgeven voor een van onze API’s . Je kunt een gebruikerswens doorgeven door een issue aan te maken in GitHub. We pakken je wens zo snel mogelijk op.
 &nbsp;
 
 ## Geef een gebruikerswens door
