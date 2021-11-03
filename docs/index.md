@@ -10,12 +10,15 @@ title: Productvisie Haal Centraal
 * Je krijgt contrete tips en stappenplannen. 
 * Onze experts staan klaar om je te adviseren.   
 <div class="landingpage-header">
-  <br/>
-  <br/>
+  <p>
+    &nbsp;
+  </p>
   <p>
     <a href="https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal">Ga naar de startgids Haal Centraal>></a>
   </p>
-  <br/>
+  <p>
+    &nbsp;
+  </p>
 </div>
 
 
