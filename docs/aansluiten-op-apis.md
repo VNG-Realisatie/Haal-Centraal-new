@@ -11,6 +11,7 @@ title: Productvisie Haal Centraal
 
 &nbsp;
 <div class="row">
+
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
@@ -39,7 +40,8 @@ title: Productvisie Haal Centraal
         </div>
     </div>
   </div>
-  <br>
+</div>  
+<div class="row">
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
@@ -65,7 +67,8 @@ title: Productvisie Haal Centraal
         </p></div>
     </div>
   </div>
-  <br>
+</div>
+<div class="row">
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
