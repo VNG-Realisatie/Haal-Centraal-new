@@ -40,34 +40,50 @@ In het onderstaande kader staan 3 fases beschreven voor het opschalen van de sec
 
 ## 3 fases voor opschalen security
 {:.emphasize-block}
+
 &nbsp;   
 {:.emphasize-block}
+
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
 {:.emphasize-block}
+
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
 {:.emphasize-block}
+
 Totdat je opnieuw aanbesteedt, kun je voor deze applicaties een machine to machine koppeling maken (met een passende autorisatie), en eventueel een ‘vertaler’ gebruiken die de API requests en responses omzetten in de oude formaten. Gebruikersbeheer, autorisatie en logging op gebruikersniveau blijft dan onveranderd. Zij blijven onderdeel van de legacy applicatie.  
 {:.emphasize-block}
+
 Om deze stap te kunnen zetten heb je alleen een API Gateway nodig en een proxy voor autorisatie op detailniveau (evt. via een API Gateway framework). Met deze voorziening(en) kun je dus al van start met de transitie.
 {:.emphasize-block}
+
 &nbsp;   
 {:.emphasize-block}
+
+&nbsp;   
 {:.emphasize-block}
+
 ### Fase b: identity provider en logging & protocollering
 {:.emphasize-block}
+
 De tweede fase is het introduceren van een Identity provider/STS, en tegelijkertijd een start maken met een centrale logging- en protocolleringsvoorziening. 
 Het juiste moment hiervoor is:
 {:.emphasize-block}
+
 * Als je een applicatie opnieuw gaat aanbesteden die past in de Common Ground visie
 {:.emphasize-block}
+
 * Als je een moderne SaaS oplossing gaat gebruiken die gebruik maakt van Haal Centraal API’s, bijvoorbeeld een generieke viewer voor alle medewerkers van de gemeente. 
 {:.emphasize-block}
+
 Begin met het aansluiten van 1 applicatie, en breid dit langzaam uit voor alle nieuwe (opnieuw aanbestede) applicaties. Zo kun je al doende leren en verbeteren, en jouw organisatie in eigen tempo verder professionaliseren.
 {:.emphasize-block}
+
 Lees meer over logging & protocollering in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
 {:.emphasize-block}
+
 &nbsp;   
 {:.emphasize-block}
+
 ### Fase c: IGA-systeem voor beheer rollen en rechten 
 {:.landingpage-header}
 
