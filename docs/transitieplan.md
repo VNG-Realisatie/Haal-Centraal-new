@@ -85,7 +85,7 @@ Lees meer over logging & protocollering in [het onderdeel security](https://vng-
 {:.emphasize-block}
 
 ### Fase c: IGA-systeem voor beheer rollen en rechten 
-{:.landingpage-header}
+{:.emphasize-block}
 
 De derde fase is het centraal beheren van rollen en rechten in een IGA-systeem (Identity Governance and Administration - voorheen IAM). 
 
