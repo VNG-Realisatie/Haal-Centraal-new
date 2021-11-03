@@ -63,24 +63,49 @@ Voor het verzamelen, opslaan en analyse van de logging kun je bijvoorbeeld gebru
 &nbsp;   
 
 ## Uitwerking (Toegangs)beveiliging, autorisatie en filtering
+{:.landingpage-header}
+
 Gemeenten kunnen met deze onderdelen zelf de toegangsbeveiliging en autorisatie organiseren. 
+{:.landingpage-header}
 
 &nbsp;   
+{:.landingpage-header}
+
 ### Identity Provider (IP)	
+{:.landingpage-header}
+
 Voor het authenticeren van de eindgebruiker waarin de claims voor het gebruik van de API van alle gebruikers van jouw gemeente centraal zijn vastgelegd. 
+{:.landingpage-header}
 
 Nadat de Identity provider heeft vastgesteld wie de ingelogde gebruiker is en welke applicatie de API namens de gebruiker wil bevragen, kunnen tokens (al dan niet met gebruikersclaims) aan client applicaties worden verstrekt. 
+{:.landingpage-header}
 
 Hiermee kan de client (SaaS)applicatie namens de gebruiker de API bevragen.
+{:.landingpage-header}
 
 &nbsp;   
+{:.landingpage-header}
+
 ### Security Token Service (STS)	
+{:.landingpage-header}
+
 Voor het uitgeven, valideren, vernieuwen en beëindigen van security tokens en het veilig identificeren van een client (SaaS) applicatie. Hoort bij de Identity Provider.
+{:.landingpage-header}
 
 &nbsp;   
+{:.landingpage-header}
+
 ### API Gateway	
+{:.landingpage-header}
+
 Voor de (toegangs)beveiliging van de API’s. Een API Gateway is vaak onderdeel van een product voor ‘full life cycle API Management’. 
+{:.landingpage-header}
 
 Een API Gateway bevat ondersteuning voor het design, publiceren, documenteren, beveiligen en analyseren van API’s. Zie de website van Gartner voor productinspiratie. 
+{:.landingpage-header}
 
 Een API Gateway is een must have voor iedere gemeente die gevoelige API’s aan afnemers aanbiedt.
+{:.landingpage-header}
+
+&nbsp;
+{:.landingpage-header}
