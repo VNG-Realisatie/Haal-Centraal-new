@@ -2,25 +2,16 @@
 layout: landing-page
 title: Productvisie Haal Centraal
 ---
-{:.landingpage-header}
 # Starten met haal centraal
+{:.landingpage-header}
 
 {:.landingpage-header}
 * In de startgids lees je in 5 minuten wat je moet doen.
+{:.landingpage-header}
 * Je krijgt contrete tips en stappenplannen. 
+{:.landingpage-header}
 * Onze experts staan klaar om je te adviseren.   
-<div class="landingpage-header">
-  <p>
-    &nbsp;
-  </p>
-  <p>
-    <a href="https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal">Ga naar de startgids Haal Centraal>></a>
-  </p>
-  <p>
-    &nbsp;
-  </p>
-</div>
-
+{:.landingpage-header}
 &nbsp;
 {:.landingpage-header}
 [Ga naar de startgids Haal Centraal>>](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal)
