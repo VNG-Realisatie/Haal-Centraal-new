@@ -39,61 +39,67 @@ In het onderstaande kader staan 3 fases beschreven voor het opschalen van de sec
 &nbsp;   
 
 ## 3 fases voor opschalen security
-{:.emphasize-block}
+{:.landingpage-header}
 
 &nbsp;   
-{:.emphasize-block}
+{:.landingpage-header}
 
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
-{:.emphasize-block}
+{:.landingpage-header}
 
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
-{:.emphasize-block}
+{:.landingpage-header}
 
 Totdat je opnieuw aanbesteedt, kun je voor deze applicaties een machine to machine koppeling maken (met een passende autorisatie), en eventueel een ‘vertaler’ gebruiken die de API requests en responses omzetten in de oude formaten. Gebruikersbeheer, autorisatie en logging op gebruikersniveau blijft dan onveranderd. Zij blijven onderdeel van de legacy applicatie.  
-{:.emphasize-block}
+{:.landingpage-header}
 
 Om deze stap te kunnen zetten heb je alleen een API Gateway nodig en een proxy voor autorisatie op detailniveau (evt. via een API Gateway framework). Met deze voorziening(en) kun je dus al van start met de transitie.
-{:.emphasize-block}
+{:.landingpage-header}
 
 &nbsp;   
-{:.emphasize-block}
+{:.landingpage-header}
 
 &nbsp;   
-{:.emphasize-block}
+{:.landingpage-header}
 
 ### Fase b: identity provider en logging & protocollering
-{:.emphasize-block}
+{:.landingpage-header}
 
 De tweede fase is het introduceren van een Identity provider/STS, en tegelijkertijd een start maken met een centrale logging- en protocolleringsvoorziening. 
 Het juiste moment hiervoor is:
-{:.emphasize-block}
+{:.landingpage-header}
 
 * Als je een applicatie opnieuw gaat aanbesteden die past in de Common Ground visie
-{:.emphasize-block}
+{:.landingpage-header}
 
 * Als je een moderne SaaS oplossing gaat gebruiken die gebruik maakt van Haal Centraal API’s, bijvoorbeeld een generieke viewer voor alle medewerkers van de gemeente. 
-{:.emphasize-block}
+{:.landingpage-header}
 
 Begin met het aansluiten van 1 applicatie, en breid dit langzaam uit voor alle nieuwe (opnieuw aanbestede) applicaties. Zo kun je al doende leren en verbeteren, en jouw organisatie in eigen tempo verder professionaliseren.
-{:.emphasize-block}
+{:.landingpage-header}
 
 Lees meer over logging & protocollering in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
-{:.emphasize-block}
+{:.landingpage-header}
 
 &nbsp;   
-{:.emphasize-block}
+{:.landingpage-header}
 
 ### Fase c: IGA-systeem voor beheer rollen en rechten 
-{:.emphasize-block}
+{:.landingpage-header}
 
 De derde fase is het centraal beheren van rollen en rechten in een IGA-systeem (Identity Governance and Administration - voorheen IAM). 
+{:.landingpage-header}
 
 Dat wordt belangrijker naarmate het landschap meer applicaties bevat die gebruikmaken van rollen en rechten in een Identity Provider. Daarbij speelt ook de grootte van jouw gemeente een rol.
+{:.landingpage-header}
 
 Stel jezelf de vraag wanneer de provisioning van jouw Identity Provider niet meer goed lukt via een formulier of een beheerder. Bij hoeveel aangesloten applicaties en bij welke aangesloten applicaties is het belangrijk dat de Identity Provider is aangesloten op het medewerker life cycle management van jouw organisatie?
+{:.landingpage-header}
 
 Houd er rekening mee dat een IGA project 30% techniek, en 70% cultuur is. Begrip van de noodzaak en draagvlak van management en HR afdeling is een absolute voorwaarde voor succes. Start daarmee op tijd.
+{:.landingpage-header}
 
 Lees meer over IGA-systemen in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
+{:.landingpage-header}
+
 &nbsp;   
