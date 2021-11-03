@@ -11,7 +11,7 @@ title: Productvisie Haal Centraal
 * Onze experts staan klaar om je te adviseren.   
 
 &nbsp;    
-<p class="landingpage-header"><a href="https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal">Ga naar de startgids Haal Centraal>></a></p>
+<div class="landingpage-header"><a href="https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal">Ga naar de startgids Haal Centraal>></a></div>
 
 
 {:.header}
