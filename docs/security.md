@@ -18,7 +18,7 @@ De kern van veilig gebruik van een Haal Centraal API met vertrouwelijke gegevens
 ## Security inrichten op veilig gebruik
 Om veilig te kunnen werken met API’s heb je 3 onderdelen nodig.
 1. (Toegangs)beveiliging, autorisatie en filtering.
-2. IAM-systeem: beheren van identiteit, rollen en rechten.
+2. IGA-systeem: beheren van identiteit, rollen en rechten.
 3. Logging- en protocollering: controle achteraf en misbruik voorkomen.
 
 Hieronder lees je een uitwerking van deze 3 onderdelen
@@ -39,14 +39,14 @@ In het kader [Uitwerking (Toegangs)beveiliging, autorisatie en filtering](https:
 
 &nbsp;   
 ### 2. IGA-systeem: beheren van identiteit, rollen en rechten
-Bij voorkeur wordt de Identity Provider gevoed door een IGA (voorheen IAM) systeem, waarmee je de rollen en rechten van jouw gebruikers voor verschillende systemen centraal kunt beheren. 
+Bij voorkeur wordt de Identity Provider gevoed door een  IGA-systeem (Identity Governance and Administration - voorheen IAM), waarmee je de rollen en rechten van jouw gebruikers voor verschillende systemen centraal kunt beheren. 
 
-Een zogenaamde ‘identity governance and administration’ (IGA) oplossing: 
+Een IGA oplossing: 
 * automatiseert bijvoorbeeld het creëren, updaten en verwijderen van accounts; 
 * behandelt aanvragen van gebruikers om toegang te krijgen tot een bepaald systeem; 
 * beheert wachtwoorden, gebruikerstoegang en toegangscertificeringsprocessen. 
 
-Je kunt het IGA systeem koppelen aan het HR systeem, zodat een medewerker bijvoorbeeld automatisch alle rechten verliest op het gebruik van BRP gegevens als hij/zij voor een andere afdeling gaat werken.
+Je kunt het IGA-systeem koppelen aan het HR systeem, zodat een medewerker bijvoorbeeld automatisch alle rechten verliest op het gebruik van BRP gegevens als hij/zij voor een andere afdeling gaat werken.
 
 Zo’n IGA voorziening is optioneel maar heel belangrijk, zeker als je in een wat grotere gemeente werkt. Het beheren van veel gebruikers met verschillende accounts in allerlei processystemen zoals nu in veel gemeenten gebruikelijk is, is een beveiligingsrisico.
 
