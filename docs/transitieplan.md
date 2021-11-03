@@ -30,7 +30,7 @@ Welke van de twee strategieën je kiest, hangt af van de situatie in jouw gemeen
 ## Stap 2 – gefaseerd security opschalen  
 Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Concreet beweeg je van alle security in de applicatie naar security in centrale gemeentelijke voorzieningen. 
 
-De professionalisering van beveiliging gaat in fases. Als je start met 1 privacygevoelige API, heb je alleen een API gateway nodig. Ga je opschalen? Dan volgt ook een proxy voor autorisatie, een Identity Provider, een protocolleringsvoorziening en IAM.
+De professionalisering van beveiliging gaat in fases. Als je start met 1 privacygevoelige API, heb je alleen een API gateway nodig. Ga je opschalen? Dan volgt ook een proxy voor autorisatie, een Identity Provider, een protocolleringsvoorziening en IGA-systeem (identity governance and administration - voorheen IAM).
 
 In het onderstaande kader staan 3 fases beschreven voor het opschalen van de security. Hoe je de fases doorloopt, hangt samen met de transitiestrategie die je kiest.  
 * Kies je voor actief uitfaseren (strategie A): dan kun je de onderstaande fases a, b en c doorlopen.
@@ -63,15 +63,15 @@ Lees meer over logging & protocollering in [het onderdeel security](https://vng-
 
 &nbsp;   
 
-### Fase c: IAM-systeem voor beheer rollen en rechten 
+### Fase c: IGA-systeem voor beheer rollen en rechten 
 
-De derde fase is het centraal beheren van rollen en rechten in een IAM systeem. 
+De derde fase is het centraal beheren van rollen en rechten in een IGA-systeem (identity governance and administration - voorheen IAM). 
 
 Dat wordt belangrijker naarmate het landschap meer applicaties bevat die gebruikmaken van rollen en rechten in een Identity Provider. Daarbij speelt ook de grootte van jouw gemeente een rol.
 
 Stel jezelf de vraag wanneer de provisioning van jouw Identity Provider niet meer goed lukt via een formulier of een beheerder. Bij hoeveel aangesloten applicaties en bij welke aangesloten applicaties is het belangrijk dat de Identity Provider is aangesloten op het medewerker life cycle management van jouw organisatie?
 
-Houd er rekening mee dat een IAM project 30% techniek, en 70% cultuur is. Begrip van de noodzaak en draagvlak van management en HR afdeling is een absolute voorwaarde voor succes. Start daarmee op tijd.
+Houd er rekening mee dat een IGA project 30% techniek, en 70% cultuur is. Begrip van de noodzaak en draagvlak van management en HR afdeling is een absolute voorwaarde voor succes. Start daarmee op tijd.
 
-Lees meer over IAM systemen in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
+Lees meer over IGA-systemen in [het onderdeel security](https://vng-realisatie.github.io/Haal-Centraal-new/security).
 &nbsp;   
