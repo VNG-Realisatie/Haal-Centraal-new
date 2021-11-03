@@ -37,7 +37,7 @@ In het onderstaande kader staan 3 fases beschreven voor het opschalen van de sec
 * Kies je voor een sterfhuisconstructie (strategie B), dan moet je eerst de voorzieningen uit de onderstaande fase a en b aanschaffen en inrichten. Daarna kun je de fases doorlopen.
 
 &nbsp;   
----------------------------------------
+{:.landingpage-header}
 ## 3 fases voor opschalen security
 &nbsp;   
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
