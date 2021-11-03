@@ -80,7 +80,7 @@ title: Productvisie Haal Centraal
         <h2 class="card-title">Over Haal Centraal</h2>
         <p class="card-text">
         Haal Centraal ontwikkelt API’s die gegevens bevragen bij landelijke registraties. <a href="https://vng-realisatie.github.io/Haal-Centraal-new/over-haal-centraal">Lees meer>></a>
-</p>
+        </p>
       </div>
     </div>
   </div>
