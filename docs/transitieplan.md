@@ -37,10 +37,10 @@ In het onderstaande kader staan 3 fases beschreven voor het opschalen van de sec
 * Kies je voor een sterfhuisconstructie (strategie B), dan moet je eerst de voorzieningen uit de onderstaande fase a en b aanschaffen en inrichten. Daarna kun je de fases doorlopen.
 
 &nbsp;   
-{:.emphasize-block}
+{:.landingpage-header}
 ## 3 fases voor opschalen security
 &nbsp;   
-{:.emphasize-block}
+{:.landingpage-header}
 ### Fase a: afnemers gegevensmagazijn aansluiten op API’s
 Haal Centraal maakt aansluiten goedkoper en vermindert het aantal lokale kopieën, te beginnen bij het gegevensmagazijn/distributiesysteem. Wil je deze besparing op korte termijn inboeken? Dan moet je alle afnemers van het administratieve gegevensmagazijn aansluiten op de API’s, ook de legacy applicaties.  
 
@@ -51,7 +51,7 @@ Om deze stap te kunnen zetten heb je alleen een API Gateway nodig en een proxy v
 &nbsp;   
 
 
-{:.emphasize-block}
+{:.landingpage-header}
 ### Fase b: identity provider en logging & protocollering
 De tweede fase is het introduceren van een Identity provider/STS, en tegelijkertijd een start maken met een centrale logging- en protocolleringsvoorziening. 
 Het juiste moment hiervoor is:
@@ -65,7 +65,7 @@ Lees meer over logging & protocollering in [het onderdeel security](https://vng-
 
 &nbsp;   
 
-{:.emphasize-block}
+{:.landingpage-header}
 ### Fase c: IGA-systeem voor beheer rollen en rechten 
 
 De derde fase is het centraal beheren van rollen en rechten in een IGA-systeem (Identity Governance and Administration - voorheen IAM). 
