@@ -21,6 +21,13 @@ title: Productvisie Haal Centraal
   </p>
 </div>
 
+&nbsp;
+{:.landingpage-header}
+[Ga naar de startgids Haal Centraal>>](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal)
+{:.landingpage-header}
+&nbsp;
+{:.landingpage-header}
+
 
 {:.header}
 <br><br>
