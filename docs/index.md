@@ -7,11 +7,8 @@ title: Productvisie Haal Centraal
 
 {:.landingpage-header}
 * In de startgids lees je in 5 minuten wat je moet doen.
-{:.landingpage-header}
 * Je krijgt contrete tips en stappenplannen. 
-{:.landingpage-header}
 * Onze experts staan klaar om je te adviseren.   
-{:.landingpage-header}
 &nbsp;
 {:.landingpage-header}
 [Ga naar de startgids Haal Centraal>>](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal)
