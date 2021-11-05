@@ -13,7 +13,6 @@ title: Productvisie Haal Centraal
 * Geef het reproductiepad op (testcase, endpoint, request).
 * Lees meer over GitHub in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
 
-&nbsp;
 <div class="row">
 
   <div class="col">
