@@ -13,7 +13,7 @@ title: Hoe kun je bijdragen?
       <div class="card-body">
         <h2 class="card-title">Bug melden</h2>
         <p class="card-text">
-        Je kunt een fout of bug doorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/bug_melden)
+        Je kunt een fout of bug doorgeven in GitHub. [Lees meer>>](bug_melden)
         </p>
       </div>
     </div>
