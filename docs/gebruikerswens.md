@@ -10,7 +10,6 @@ title: Productvisie Haal Centraal
 ## Geef een gebruikerswens door
 * Maak een user story aan in GitHub via de onderstaande links.
 * Formuleer je wens in het format *“als medewerker xxx wil ik xxx zodat ik xxx”*.
-* voeg aan de issue het label 'user story” toe.
 * Lees meer over GitHub in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
 
 <div class="row">
