@@ -4,15 +4,17 @@ title: Productvisie Haal Centraal
 ---
 
 # Aansluiten op API's
-### Je wilt aansluiten op een van onze API’s. Voor iedere API hebben we een Getting started Guide gemaakt. Daarin staat precies wat je moet doen.
-&nbsp;
-### Op deze API's kun je nu aansluiten 
-&nbsp;
+## Je wilt aansluiten op een van onze API’s. Voor iedere API hebben we een Getting started Guide gemaakt. Daarin staat precies wat je moet doen.
+{:.header}
+
+## Op deze API's kun je nu aansluiten
+{:.header}
+
 <div class="row">
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">BAG Bevragen</h4>
+        <h3 class="card-title">BAG Bevragen</h3>
         <p class="card-text">
           Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BAG-bevragen/getting-started">de BAG Bevragen API>></a>
         </p>
@@ -22,7 +24,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">BRK Bevragen</h4>
+        <h3 class="card-title">BRK Bevragen</h3>
         <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRK-bevragen/getting-started">de BRK Bevragen API>></a>
         </p>
       </div>
@@ -31,7 +33,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">WOZ Bevragen</h4>
+        <h3 class="card-title">WOZ Bevragen</h3>
         <p class="card-text">Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-WOZ-bevragen/getting-started">de WOZ Bevragen API>></a>
         </p>
         </div>
@@ -42,7 +44,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">BRP Persoon</h4>
+        <h3 class="card-title">BRP Persoon</h3>
         <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-bevragen/getting-started">de BRP Persoon API>></a>
         </p>
         </div>
@@ -51,7 +53,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">BRP Historie</h4>
+        <h3 class="card-title">BRP Historie</h3>
         <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-historie-bevragen/">de BRP Historie API>></a>
         </p></div>
     </div>
@@ -59,7 +61,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">BRP Bewoning</h4>
+        <h3 class="card-title">BRP Bewoning</h3>
         <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-historie-bevragen/getting-started">de BRP Bewoning API>></a>
         </p></div>
     </div>
@@ -69,7 +71,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">BRP Reisdocumenten</h4>
+        <h3 class="card-title">BRP Reisdocumenten</h3>
         <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-Reisdocumenten-bevragen/getting-started">de BRP Reisdocumenten API>></a>
         </p></div>
     </div>
@@ -77,7 +79,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h2 class="card-title">BRP Tabellen</h4>
+        <h3 class="card-title">BRP Tabellen</h3>
         <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-tabellen-bevragen/getting-started">de BRP Tabellen API>></a>
         </p>
       </div>
@@ -86,7 +88,7 @@ title: Productvisie Haal Centraal
   <div class="col">
     <div class="card no-border">
       <div class="card-body">
-        <h4 class="card-title">&nbsp;</h4>
+        <h3 class="card-title">&nbsp;</h3>
         <p class="card-text">&nbsp;</p>
       </div>
     </div>
