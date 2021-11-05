@@ -13,7 +13,7 @@ title: Hoe kun je bijdragen?
       <div class="card-body">
         <h2 class="card-title">Bug melden</h2>
         <p class="card-text">
-        Je kunt een fout of bug doorgeven in GitHub. [Lees meer>>](./bug_melden.md)
+        Je kunt een fout of bug doorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/bug_melden.html)
         </p>
       </div>
     </div>
@@ -23,7 +23,7 @@ title: Hoe kun je bijdragen?
       <div class="card-body">
         <h2 class="card-title">Verbetervoorstel</h2>
         <p class="card-text">
-        Je kunt een verbetervoorstel doorgeven in GitHub. [Lees meer>>](./verbetervoorstel.md)
+        Je kunt een verbetervoorstel doorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/verbetervoorstel.html)
         </p>
       </div>
     </div>
@@ -32,7 +32,7 @@ title: Hoe kun je bijdragen?
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">Gebruikerswens</h2>
-        <p class="card-text">Je kunt een gebruikerswensdoorgeven in GitHub. [Lees meer>>](./gebruikerswens.md)
+        <p class="card-text">Je kunt een gebruikerswensdoorgeven in GitHub. [Lees meer>>](https://vng-realisatie.github.io/Haal-Centraal-new/gebruikerswens.html)
 
         </p>
       </div>
