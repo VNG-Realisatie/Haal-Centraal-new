@@ -11,14 +11,7 @@ title: Productvisie Haal Centraal
 * Maak een nieuw issue aan in GitHub.
 * Beschrijf de fout en geef aan welk resultaat je had verwacht.
 * Geef het reproductiepad op (testcase, endpoint, request).
-* Voeg het label “bug” toe aan de issue.
-
-[Meld nu een fout of bug](http://example.com)   
-
-&nbsp;    
-## Meer weten over GitHub
-
-Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over lezen in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
+* Lees meer over GitHub in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
 
 &nbsp;
 <div class="row">
@@ -57,7 +50,7 @@ Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over le
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRP Persoon</h2>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-bevragen/getting-started">de BRP Persoon API>></a>
+        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p>
         </div>
     </div>
@@ -66,7 +59,7 @@ Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over le
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRP Historie</h2>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-historie-bevragen/">de BRP Historie API>></a>
+        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-historie-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p></div>
     </div>
   </div>
@@ -74,7 +67,7 @@ Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over le
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRP Bewoning</h2>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-historie-bevragen/getting-started">de BRP Bewoning API>></a>
+        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bewoning/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p></div>
     </div>
   </div>
@@ -84,7 +77,7 @@ Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over le
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRP Reisdocumenten</h2>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-Reisdocumenten-bevragen/getting-started">de BRP Reisdocumenten API>></a>
+        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-Reisdocumenten-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p></div>
     </div>
   </div>
@@ -92,7 +85,7 @@ Als je nog niet goed weet hoe Git en GitHub werkt, kun je hier iets meer over le
     <div class="card no-border">
       <div class="card-body">
         <h2 class="card-title">BRP Tabellen</h2>
-        <p class="card-text"> Ga naar de Getting Started Guide van <a href="https://vng-realisatie.github.io/Haal-Centraal-BRP-tabellen-bevragen/getting-started">de BRP Tabellen API>></a>
+        <p class="card-text"> <a href="https://github.com/VNG-Realisatie/Haal-Centraal-BRP-tabellen-bevragen/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Maak een issue aan>></a>
         </p>
       </div>
     </div>
