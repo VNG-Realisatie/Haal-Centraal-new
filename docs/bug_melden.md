@@ -8,7 +8,7 @@ title: Productvisie Haal Centraal
 &nbsp;
 
 ## Meld een fout of bug
-* Maak een nieuw issue aan in GitHub.
+* Maak een issue aan in GitHub via de onderstaande links.
 * Beschrijf de fout en geef aan welk resultaat je had verwacht.
 * Geef het reproductiepad op (testcase, endpoint, request).
 * Lees meer over GitHub in de [tutorial](https://github.com/VNG-Realisatie/API-Kennisbank/blob/master/GitHub%20tutorial/github_tutorial.md).
