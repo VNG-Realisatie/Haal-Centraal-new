@@ -3,9 +3,9 @@ layout: landing-page
 title: Productvisie Haal Centraal
 ---
 
-# Security
+# Security en privacy 
 
-## Als je met API’s gaat werken, heb je andere security voorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. In dit hoofdstuk lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s. 
+## Als je met API’s gaat werken, heb je andere security en privacyvoorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. In dit hoofdstuk lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s. 
 
 &nbsp;   
 ## Veilig gebruik van vertrouwelijke gegevens
@@ -15,7 +15,7 @@ De kern van veilig gebruik van een Haal Centraal API met vertrouwelijke gegevens
 * Dat een (SaaS)applicatie uitsluitend toegang krijgt tot de gegevens namens een gebruiker van jouw gemeente, dus alleen als jouw medewerker achter de knoppen zit.
 
 &nbsp;   
-## Security inrichten op veilig gebruik
+## Omgeving inrichten op veilig gebruik
 Om veilig te kunnen werken met API’s heb je 3 onderdelen nodig.
 1. (Toegangs)beveiliging, autorisatie en filtering.
 2. IGA-systeem: beheren van identiteit, rollen en rechten.
