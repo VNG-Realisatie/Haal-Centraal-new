@@ -23,6 +23,7 @@ Haal Centraal ontwikkelt API’s (Application Programming Interfaces) waarmee je
 &nbsp;
 
 ## Bekijk de planning van Haal Centraal
+{:.header}
 In de planning voor Haal Centraal zie je precies waar de teams de komende tijd aan werken. [Bekijk de planning](https://vng-realisatie.github.io/Haal-Centraal-new/planning).
 
 &nbsp;
