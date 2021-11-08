@@ -6,9 +6,11 @@ title: Productvisie Haal Centraal
 # Security en privacy 
 
 ## Als je met API’s gaat werken, heb je andere security en privacyvoorzieningen nodig dan nu. Deze set voorzieningen is een belangrijke voorwaarde voor de transitie naar API’s. In dit hoofdstuk lees je hoe je de security kunt inrichten om veilig te werken met Haal Centraal API’s. 
+{:.header}
 
 &nbsp;   
 ## Veilig gebruik van vertrouwelijke gegevens
+{:.header}
 De kern van veilig gebruik van een Haal Centraal API met vertrouwelijke gegevens is:
 * Dat uitsluitend geautoriseerde (gebruikers van) applicaties toegang krijgen tot gegevens.
 * Dat gebruikers uitsluitend toegang krijgen tot gegevens waarvoor zij zijn geautoriseerd.
@@ -16,6 +18,7 @@ De kern van veilig gebruik van een Haal Centraal API met vertrouwelijke gegevens
 
 &nbsp;   
 ## Omgeving inrichten op veilig gebruik
+{:.header}
 Om veilig te kunnen werken met API’s heb je 3 onderdelen nodig.
 1. (Toegangs)beveiliging, autorisatie en filtering.
 2. IGA-systeem: beheren van identiteit, rollen en rechten.
@@ -26,6 +29,7 @@ Hieronder lees je een uitwerking van deze 3 onderdelen
 &nbsp;   
 
 ### 1. (Toegangs)beveiliging, autorisatie en filtering
+{:.header}
 Gemeenten bieden een breed palet aan producten en diensten die allemaal een andere minimale set gegevens en functionaliteit nodig hebben. En die producten en diensten worden geleverd door veel verschillende medewerkers met verschillende rollen en rechten. 
 
 Gemeenten moeten hiervoor zelf de toegangsbeveiliging en autorisatie organiseren. Gemeenten hebben daarvoor minimaal nodig:
@@ -39,6 +43,7 @@ In het kader [Uitwerking (Toegangs)beveiliging, autorisatie en filtering](https:
 
 &nbsp;   
 ### 2. IGA-systeem: beheren van identiteit, rollen en rechten
+{:.header}
 Bij voorkeur wordt de Identity Provider gevoed door een  IGA-systeem (Identity Governance and Administration - voorheen IAM), waarmee je de rollen en rechten van jouw gebruikers voor verschillende systemen centraal kunt beheren. 
 
 Een IGA oplossing: 
@@ -52,6 +57,7 @@ Zo’n IGA voorziening is optioneel maar heel belangrijk, zeker als je in een wa
 
 &nbsp;   
 ### 3. Logging- en protocollering: controle achteraf en voorkomen misbruik
+{:.header}
 Een gemeente moet conform de wet BRP alle BRP bevragingen protocolleren. Dat gebeurt nu meestal in de diverse procesapplicaties. Het is beter om een centrale logging- of protocolleringsvoorziening in te richten, waarin API requests en evt. ook responses onweerlegbaar worden vastgelegd, samen met het token dat de identiteit en claims van de eindgebruiker bevat. 
 
 Door de API Gateway te laten loggen en de toegangsbeveiliging voor nieuwe applicaties te baseren op eindgebruikercredentials hoef je straks in de meeste gevallen niet meer te protocolleren in de afnemende applicatie. Ook kun je burgerverzoeken in het kader van de AVG beter en sneller afhandelen door de logginggegevens te verrijken met de informatie uit je verwerkingsregister. 
