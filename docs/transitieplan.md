@@ -6,14 +6,17 @@ title: Productvisie Haal Centraal
 # Transitieplan
 
 ## In dit hoofdstuk lees je hoe je de transitie maakt naar het werken met Haal Centraal API’s in jouw gemeente en het uitfaseren van administratieve gegevensmagazijnen en veel lokale kopieën.  
+{:.header}
 
 &nbsp;  
 ## Lees eerst de Startgids Haal Centraal
+{:.header}
 Dit stappenplan is onderdeel van de Startgids Haal Centraal. In de startgids adviseren we om op 2 sporen te starten met Haal Centraal. Het stappenplan is een uitwerking van spoor 2 uit de startgids. Lees eerst [de Startgids Haal Centraal](https://vng-realisatie.github.io/Haal-Centraal-new/starten-met-haal-centraal) als je die nog niet gelezen hebt.
 
 &nbsp;   
 
 ## Stap 1 -  Maak een transitieplan  
+{:.header}
 De transitie begint met het bepalen van de transitiestrategie voor jouw gemeente. Wij onderscheiden 2 strategieën, die eventueel in combinatie kunnen worden toegepast:  
 * Strategie A - het actief uitfaseren van het administratief gegevensmagazijn. In deze strategie sluit je alle afnemers van het gegevensmagazijn actief aan op de API’s binnen een korte periode. 
 * Strategie B - een sterfhuisconstructie, waarbij je een nieuwe infrastructuur naast de oude opbouwt en de oude situatie onveranderd laat totdat deze applicaties allemaal opnieuw zijn aanbesteed.
@@ -28,6 +31,7 @@ Welke van de twee strategieën je kiest, hangt af van de situatie in jouw gemeen
 &nbsp;   
 
 ## Stap 2 – gefaseerd security opschalen  
+{:.header}
 Als je meer API’s gaat aansluiten, ga je ook de security opschalen. Concreet beweeg je van alle security in de applicatie naar security in centrale gemeentelijke voorzieningen. 
 
 De professionalisering van beveiliging gaat in fases. Als je start met 1 privacygevoelige API, heb je alleen een API gateway nodig. Ga je opschalen? Dan volgt ook een proxy voor autorisatie, een Identity Provider, een protocolleringsvoorziening en IGA-systeem (Identity Governance and Administration - voorheen IAM).
